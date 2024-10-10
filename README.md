@@ -1,6 +1,6 @@
 # SSC0108 - Prática-SD
 
-[Laboratory Exercise 5 - Timers and Real-time Clock](src/)
+[Laboratory Exercise 5 - Timers and Real-time Clock](doc/lab5.pdf)
 
 ### Alunos
 
@@ -214,4 +214,4 @@ begin
 end Behavioral;
 
 ```
-[Link para o projeto implementado no Quartus](quartus/)
+[Link para o projeto implementado no Quartus](quartus/morse)
